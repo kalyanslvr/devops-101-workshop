@@ -1,1 +1,1 @@
-FROM katdemo.jfrog.io/docker/ubuntu:16.04
+FROM kalyanslvr.jfrog.io/docker/ubuntu:16.04
